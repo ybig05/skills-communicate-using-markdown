@@ -1,4 +1,4 @@
-<h1>Daily Learning
-<h2>Morning Planning
+#Daily Learning
+##Morning Planning
 
-<h2>Review
+##Review
